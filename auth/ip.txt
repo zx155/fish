@@ -1,15 +1,1 @@
-IP: 117.5.146.124
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
-
-IP: 102.89.85.149
-User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
-
-IP: 117.5.146.124
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
-
-IP: 14.161.170.111
-User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/483.0.0.52.109;FBBV/660703805;FBDV/iPhone8,4;FBMD/iPhone;FBSN/iOS;FBSV/15.7.7;FBSS/2;FBCR/;FBID/phone;FBLC/vi_VN;FBOP/80]
-
-IP: 14.240.200.87
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
 
